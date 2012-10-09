@@ -26,3 +26,9 @@ Which will return:
 Have a good time with the script, and try not to get in trouble! I don't want you using this for
 spam! :P
 EpiTheMeh
+
+
+OH, and before I forget:
+You're free to share, modify, contribute, whatever you like! This is just for fun, for me, and
+I'm really not bothered! Just don't do anything offensive (IE. I don't want to see anyone uploading
+scripts to this repository with offensive names.)
